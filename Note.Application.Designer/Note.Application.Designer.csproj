@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Note.Application.Customer\Note.Application.Customer.csproj" />
+    <ProjectReference Include="..\Note.Application.Login\Note.Application.Login.csproj" />
+    <ProjectReference Include="..\Note.Application.Main\Note.Application.Main.csproj" />
+    <ProjectReference Include="..\Note.Application.Note\Note.Application.Note.csproj" />
+    <ProjectReference Include="..\Note.Application.Picture\Note.Application.Picture.csproj" />
+    <ProjectReference Include="..\Note.Application.Setting\Note.Application.Setting.csproj" />
+    <ProjectReference Include="..\Note.Application.Share\Note.Application.Share.csproj" />
+    <ProjectReference Include="..\Note.Application.UI\Note.Application.UI.csproj" />
+    <ProjectReference Include="..\Note.Application.Work\Note.Application.Work.csproj" />
+  </ItemGroup>
+
+</Project>

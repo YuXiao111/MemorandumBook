@@ -1,0 +1,17 @@
+F:\zcf\Note\Note.Application.Picture\bin\Debug\net8.0-windows\Note.Application.Picture.deps.json
+F:\zcf\Note\Note.Application.Picture\bin\Debug\net8.0-windows\Note.Application.Picture.dll
+F:\zcf\Note\Note.Application.Picture\bin\Debug\net8.0-windows\Note.Application.Picture.pdb
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.csproj.AssemblyReference.cache
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture_MarkupCompile.cache
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture_MarkupCompile.lref
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.g.resources
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.AssemblyInfo.cs
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.dll
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\refint\Note.Application.Picture.dll
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\Note.Application.Picture.pdb
+F:\zcf\Note\Note.Application.Picture\obj\Debug\net8.0-windows\ref\Note.Application.Picture.dll

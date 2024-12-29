@@ -1,0 +1,16 @@
+F:\zcf\Note\Note.Core\bin\Release\net8.0-windows\Note.Core.deps.json
+F:\zcf\Note\Note.Core\bin\Release\net8.0-windows\Note.Core.dll
+F:\zcf\Note\Note.Core\bin\Release\net8.0-windows\Note.Core.pdb
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core_MarkupCompile.cache
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core_MarkupCompile.lref
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.g.resources
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.AssemblyInfo.cs
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.dll
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\refint\Note.Core.dll
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\Note.Core.pdb
+F:\zcf\Note\Note.Core\obj\Release\net8.0-windows\ref\Note.Core.dll

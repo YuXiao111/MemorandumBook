@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|e:\\.net\\git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\note.database\\note.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|solutionrelative:note.database\\note.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|e:\\.net\\git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\note.database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|solutionrelative:note.database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|e:\\.net\\git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\note.database\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC025B44-3FD2-46D0-9C91-F221763DC058}|Note.Database\\Note.Database.csproj|solutionrelative:note.database\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Note.Database\\Entities\\UserEntity.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Note.Database\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:55:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Note.Database\\Entities\\EntityBase.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Note.Database\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:50:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.Database.csproj",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Note.Database.csproj",
+              "RelativeDocumentMoniker": "Note.Database\\Note.Database.csproj",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\\u7B14\u8BB0\u7CFB\u7EDF\\Note.Database\\Note.Database.csproj",
+              "RelativeToolTip": "Note.Database\\Note.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T07:48:52.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

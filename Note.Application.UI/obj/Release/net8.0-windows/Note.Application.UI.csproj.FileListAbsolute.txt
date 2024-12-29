@@ -1,0 +1,17 @@
+F:\zcf\Note\Note.Application.UI\bin\Release\net8.0-windows\Note.Application.UI.deps.json
+F:\zcf\Note\Note.Application.UI\bin\Release\net8.0-windows\Note.Application.UI.dll
+F:\zcf\Note\Note.Application.UI\bin\Release\net8.0-windows\Note.Application.UI.pdb
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.csproj.AssemblyReference.cache
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Styles\Colors.baml
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Styles\Generic.baml
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Styles\MahApps.baml
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI_MarkupCompile.cache
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.g.resources
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.AssemblyInfo.cs
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.dll
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\refint\Note.Application.UI.dll
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\Note.Application.UI.pdb
+F:\zcf\Note\Note.Application.UI\obj\Release\net8.0-windows\ref\Note.Application.UI.dll

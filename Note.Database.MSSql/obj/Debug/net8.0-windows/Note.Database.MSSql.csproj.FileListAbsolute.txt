@@ -1,0 +1,16 @@
+F:\zcf\Note\Note.Database.MSSql\bin\Debug\net8.0-windows\Note.Database.MSSql.deps.json
+F:\zcf\Note\Note.Database.MSSql\bin\Debug\net8.0-windows\Note.Database.MSSql.dll
+F:\zcf\Note\Note.Database.MSSql\bin\Debug\net8.0-windows\Note.Database.MSSql.pdb
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql_MarkupCompile.cache
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql_MarkupCompile.lref
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.g.resources
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.AssemblyInfo.cs
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.dll
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\refint\Note.Database.MSSql.dll
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\Note.Database.MSSql.pdb
+F:\zcf\Note\Note.Database.MSSql\obj\Debug\net8.0-windows\ref\Note.Database.MSSql.dll

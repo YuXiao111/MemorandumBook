@@ -1,0 +1,16 @@
+F:\zcf\Note\Note.Database\bin\Debug\net8.0-windows\Note.Database.deps.json
+F:\zcf\Note\Note.Database\bin\Debug\net8.0-windows\Note.Database.dll
+F:\zcf\Note\Note.Database\bin\Debug\net8.0-windows\Note.Database.pdb
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database_MarkupCompile.cache
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database_MarkupCompile.lref
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.g.resources
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.AssemblyInfo.cs
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.dll
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\refint\Note.Database.dll
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\Note.Database.pdb
+F:\zcf\Note\Note.Database\obj\Debug\net8.0-windows\ref\Note.Database.dll

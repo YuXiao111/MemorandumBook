@@ -1,0 +1,5 @@
+F:\zcf\Note\Note.Application.Designer\obj\Debug\net8.0-windows\Note.Application.Designer.csproj.AssemblyReference.cache
+F:\zcf\Note\Note.Application.Designer\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\zcf\Note\Note.Application.Designer\obj\Debug\net8.0-windows\App.g.cs
+F:\zcf\Note\Note.Application.Designer\obj\Debug\net8.0-windows\Note.Application.Designer_MarkupCompile.cache
+F:\zcf\Note\Note.Application.Designer\obj\Debug\net8.0-windows\Note.Application.Designer_MarkupCompile.lref

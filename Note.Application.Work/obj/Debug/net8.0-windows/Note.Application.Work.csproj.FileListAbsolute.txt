@@ -1,0 +1,17 @@
+F:\zcf\Note\Note.Application.Work\bin\Debug\net8.0-windows\Note.Application.Work.deps.json
+F:\zcf\Note\Note.Application.Work\bin\Debug\net8.0-windows\Note.Application.Work.dll
+F:\zcf\Note\Note.Application.Work\bin\Debug\net8.0-windows\Note.Application.Work.pdb
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.csproj.AssemblyReference.cache
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work_MarkupCompile.cache
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work_MarkupCompile.lref
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.g.resources
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.AssemblyInfo.cs
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.dll
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\refint\Note.Application.Work.dll
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\Note.Application.Work.pdb
+F:\zcf\Note\Note.Application.Work\obj\Debug\net8.0-windows\ref\Note.Application.Work.dll

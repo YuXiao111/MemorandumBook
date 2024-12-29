@@ -1,0 +1,16 @@
+F:\zcf\Note\Note.Database.Sqlite\bin\Debug\net8.0-windows\Note.Database.Sqlite.deps.json
+F:\zcf\Note\Note.Database.Sqlite\bin\Debug\net8.0-windows\Note.Database.Sqlite.dll
+F:\zcf\Note\Note.Database.Sqlite\bin\Debug\net8.0-windows\Note.Database.Sqlite.pdb
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\UserControl1.g.cs
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite_MarkupCompile.cache
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite_MarkupCompile.lref
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\UserControl1.baml
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.g.resources
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.AssemblyInfoInputs.cache
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.AssemblyInfo.cs
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.csproj.CoreCompileInputs.cache
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.dll
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\refint\Note.Database.Sqlite.dll
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\Note.Database.Sqlite.pdb
+F:\zcf\Note\Note.Database.Sqlite\obj\Debug\net8.0-windows\ref\Note.Database.Sqlite.dll
